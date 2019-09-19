@@ -15,12 +15,10 @@ The objective of this assignment is to make a servo slowly sweep between 0 and 1
 ### Pictures
 ![pic of servo](media/servopicture.jpg)
 ### Lesson
-I learned that the PWM encodes information by modulating the width of a pulse. Those pulses (and the width and frequency of them) are what the servo interprets as a message. I also learned how to use capacitive touch.
-
-
+I learned that the PWM encodes information by modulating the width of a pulse. Those pulses (and the width and frequency of them) are what the servo interprets as a message. I also learned how to use capacitive touch; when I touched one wire, the servo would rotate to 180 degrees and when I touched another wire it would go back to zero.
 ## CircuitPython LCD
 ### Objective
-
+The objective of this assignment is to make an LCD screen print how many times the button has been pressed, and once the switch was flipped it would go down when you pressed the button. 
 ### Pictures
 
 ### Lesson
