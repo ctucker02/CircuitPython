@@ -13,7 +13,7 @@ I learned about how the PWM is the pulse width modulation (how long the pusle is
 ### Objective
 The objective of this assignment is to make a servo slowly sweep between 0 and 180 degrees. We also had to make the servo move simply by touching a wire (capacitive touch). 
 ### Pictures
-![pic of servo](media/servopicture.jpg)
+![pic of servo](media/servopicture.png)
 ### Lesson
 I learned that the PWM encodes information by modulating the width of a pulse. Those pulses (and the width and frequency of them) are what the servo interprets as a message. I also learned how to use capacitive touch.
 
