@@ -18,7 +18,7 @@ I learned that the PWM encodes information by modulating the width of a pulse. T
 ### Objective
 The objective of this assignment is to make an LCD screen print how many times the button has been pressed, and once the switch was flipped it would go down when you pressed the button. 
 ### Pictures
-![pic of button](media/lcdbuttonpress.jpg)
+![pic of button](media/lcdbuttonpress.jpg)![button press gif](media/buttonpressgif.gif)
 ### Lesson
 I learned how to use variables in my true and false statements and I learned what "Pull up or down" is. To pull up basically means to 
 pull up the state of the line high so it reads as true.
@@ -26,6 +26,6 @@ pull up the state of the line high so it reads as true.
 ### Objective
 The objective of this assignment is to use a photointerrupter to count how many times it has been interrupted, and then print that onto an LCD screen. 
 ### Pictures
-![button press gif](media/buttonpressgif.gif)
+
 ### Lesson
 One thing that made this assignment hard was we could not use time.(sleep), this made it hard because without sleep the photointerrupter would nonstop count when interrupted. To fix this problem I learned how to use time.monotonic, which made the program input the sentence every 4 seconds. 
