@@ -26,6 +26,7 @@ pull up the state of the line high so it reads as true.
 ### Objective
 The objective of this assignment is to use a photointerrupter to count how many times it has been interrupted, and then print that onto an LCD screen. 
 ### Pictures
-![photo gif](media/photointerruptergif.gif) Instead of having a light turn on it would count on an LCD screen.
+![photo gif](media/photointerruptergif.gif) 
+Instead of having a light turn on it would count how many times it was interrupted on an LCD screen.
 ### Lesson
 One thing that made this assignment hard was we could not use time.(sleep), this made it hard because without sleep the photointerrupter would nonstop count when interrupted. To fix this problem I learned how to use time.monotonic, which made the program input the sentence every 4 seconds. 
