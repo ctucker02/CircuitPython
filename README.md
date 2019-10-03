@@ -38,3 +38,10 @@ The objective of this assignment is to have a sensor read how far away an object
 ![sensor gif](media/distancesensor2.gif)
 ### Lesson
 I learned more about how to use if statements and variables in them.
+## Classes, Objects, and Modules
+### Objective 
+The objective of this assignment is to make a new RGB library and make two LED's switch colors.
+### Pictures
+![color switch](media/ledswitchgif.gif)
+### Lesson 
+I learned how to make a seperate library and apply it to another file. I also learned about how things are defined in CircuitPython.
