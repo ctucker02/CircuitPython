@@ -35,6 +35,6 @@ One thing that made this assignment hard was we could not use time.(sleep), this
 ### Objective
 The objective of this assignment is to have a sensor read how far away an object is, and based on how far away it is; display a certain color on the Metro. 
 ### Pictures
-
+![sensor gif](media/distancesensor2.gif)
 ### Lesson
 I learned more about how to use if statements and variables in them.
