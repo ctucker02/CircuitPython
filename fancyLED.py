@@ -20,6 +20,7 @@ class FancyLED(object):
         self.pin2.value = True
         self.pin3.value = False
         time.sleep(0.5)
+        print("working")
         
     def chase(self):
         self.pin3.value = False
