@@ -51,4 +51,4 @@ The objective of this assignment was to make a fancyLED class and use it to make
 ### Pictures
 ![FancyLED](media/FancyLEDgif.gif)
 ### Lesson
-I learned more about classes and modules and how they relate to each other; when there is a problem in one it can make both not work. i also learned how to make my code more neat by using a loop function. 
+I learned more about classes and modules and how they relate to each other; when there is a problem in one it can make both not work. I also learned how to make my code more neat by using a loop function. 
