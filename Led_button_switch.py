@@ -7,14 +7,14 @@ from lcd.lcd import CursorMode
 
 lcd = LCD(I2CPCF8574Interface(0x27), num_rows=2, num_cols=16)
 button = DigitalInOut(board.D2)
-button.direction = Direction.INPUT
-button.pull = Pull.UP
+button.direction = Direction.INPUT 
+button.pull = Pull.UP 
 switch = DigitalInOut(board.D5)
 switch.direction = Direction.INPUT
-switch.pull = Pull.UP
+switch.pull = Pull.UP               #give power to switch
 lcd.set_cursor_mode(CursorMode.LINE)
 
-press = False
+press = False 
 x = 0
 
 while True:
