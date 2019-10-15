@@ -21,15 +21,15 @@ class FancyLED(object):
         self.pin3.value = False
         time.sleep(0.5)
         print("working")
-        
+
     def chase(self):
-        self.pin3.value = False
+        self.pin3.value = True
         self.pin1.value = True
         time.sleep(0.5)
-        self.pin1.value = False
+        self.pin1.value = True
         self.pin2.value = True
         time.sleep(0.5)
-        self.pin2.value = False
+        self.pin2.value = True
         self.pin3.value = True
         time.sleep(0.5)
 
@@ -38,21 +38,21 @@ class FancyLED(object):
         self.pin2.value = True
         self.pin3.value = True
         time.sleep(0.5)
-        self.pin1.value = False
-        self.pin2.value = False
-        self.pin3.value = False
+        self.pin1.value = True
+        self.pin2.value = True
+        self.pin3.value = True
         time.sleep(0.5)
 
     def sparkle(self):
-        self.pin1.value = True
+        self.pin1.value = False
         time.sleep(0.01)
         self.pin1.value = False
         time.sleep(0.01)
-        self.pin2.value = True
+        self.pin2.value = False
         time.sleep(0.01)
         self.pin2.value = False
         time.sleep(0.01)
-        self.pin3.value = True
+        self.pin3.value = False
         time.sleep(0.01)
         self.pin3.value = False
         time.sleep(0.01)
