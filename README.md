@@ -45,3 +45,9 @@ The objective of this assignment is to make a new RGB library and make two LED's
 ![color switch](media/ledswitchgif.gif)
 ### Lesson 
 I learned how to make a seperate library and apply it to another file. I also learned about how things are defined in CircuitPython.
+## FancyLED
+### Objective
+
+### Pictures
+![FancyLED](media/FancyLEDgif.gif)
+### Lesson
