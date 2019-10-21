@@ -26,10 +26,10 @@ while True:
         x = x
 
     #print(("Interrupted"))
-    if time.monotonic () % 4 == 0:
-        lcd.set_cursor_pos(0, 0)
+    if time.monotonic () % 4 == 0:  #print value every 4 times PI is interrupted
+        lcd.set_cursor_pos(0, 0)    #cursor at start of first row
         lcd.print("Interrupted: ")
-        lcd.set_cursor_pos(0, 12)
+        lcd.set_cursor_pos(0, 12)   #cursor at end of first row
         lcd.print ( str (x))
-        lcd.set_cursor_pos(1, 0)
+        lcd.set_cursor_pos(1, 0)    #cursor at start of second row
         lcd.print ("Times")
