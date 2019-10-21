@@ -3,7 +3,7 @@ import time  #pylint: disable=import-error
 from digitalio import DigitalInOut, Direction, Pull  #pylint: disable=import-error
 
 class FancyLED(object):
-    def __init__(self, pin1, pin2, pin3):
+    def __init__(self, pin1, pin2, pin3):       #defining led pins
         self.pin1 = DigitalInOut(pin1)
         self.pin1.direction = Direction.OUTPUT
         self.pin2 = DigitalInOut(pin2)
@@ -11,7 +11,7 @@ class FancyLED(object):
         self.pin3 = DigitalInOut(pin3)
         self.pin3.direction = Direction.OUTPUT
 
-    def alternate(self):
+    def alternate(self):        #leds will alternate on and off
         self.pin1.value = True
         self.pin2.value = False
         self.pin3.value = True
