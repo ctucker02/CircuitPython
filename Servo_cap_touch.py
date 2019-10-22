@@ -1,7 +1,7 @@
 import time
 import board
 import touchio
-import pulseio      #neccessary libraries^
+import pulseio      #necessary libraries
 from adafruit_motor import Servo
 
 pwm = pulseio.PWMOut(board.A2, duty_cycle= 2 ** 15, frequency=50) #how long the pulses are and how many there are
