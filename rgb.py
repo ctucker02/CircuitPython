@@ -2,7 +2,7 @@ class RGB:
 
     import time
     import digitalio
-    import pulseio
+    import pulseio      #necessary modules
 
     def __init__(self, red, green, blue):
         self.mred = self.pulseio.PWMOut(red, frequency=5000, duty_cycle=65535)
