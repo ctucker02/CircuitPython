@@ -52,3 +52,12 @@ The objective of this assignment was to make a fancyLED class and use it to make
 ![FancyLED](media/FancyLEDgif.gif)
 ### Lesson
 I learned more about classes and modules and how they relate to each other; when there is a problem in one it can make both not work. I also learned how to make my code more neat by using a loop function. 
+# Solidworks
+My solidworks assignments. These are the beggining modules of solidworks this year, they are more advanced.
+## Gears
+### Objective
+Design 4 gears using equations and variables.
+### Pictures
+
+### Lesson
+I learned how tp use equations and variables to create different sized gears without creating seperate files.
