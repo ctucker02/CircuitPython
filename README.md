@@ -58,6 +58,6 @@ My solidworks assignments. These are the beggining modules of solidworks this ye
 ### Objective
 Design 4 gears using equations and variables.
 ### Pictures
-![Gear](media/solidworks gear.PNG)
+![Gear](media/swgear.PNG)
 ### Lesson
 I learned how tp use equations and variables to create different sized gears without creating seperate files.
