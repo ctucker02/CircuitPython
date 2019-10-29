@@ -59,5 +59,8 @@ My solidworks assignments. These are the beggining modules of solidworks this ye
 Design 4 gears using equations and variables.
 ### Pictures
 ![Gear](media/swgear.PNG)
+![Gear 2](media/swgear2.PNG)
+![Gear 3](media/swgear3.PNG)
+![Gear 4](media/swgear4.PNG)
 ### Lesson
-I learned how tp use equations and variables to create different sized gears without creating seperate files.
+I learned how to use equations and variables to create different sized gears without creating seperate files.
