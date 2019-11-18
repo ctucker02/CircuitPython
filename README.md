@@ -58,6 +58,16 @@ My solidworks assignments. These are the beggining modules of solidworks this ye
 ### Objective
 Design 4 gears using equations and variables.
 ### Pictures
-![Gear](media/solidworks gear.PNG)
+![Gear](media/swgear.PNG)
+![Gear 2](media/swgear2.PNG)
+![Gear 3](media/swgear3.PNG)
+![Gear 4](media/swgear4.PNG)
 ### Lesson
-I learned how tp use equations and variables to create different sized gears without creating seperate files.
+I learned how to use equations and variables to create different sized gears without creating seperate files. I can now make different sizes and shapes in one file by using global variables and equations.
+## Gearbox
+### Objective
+Make an enclosure for the previously designed gears.
+### Pictures
+
+### Lesson
+I learned how to use gear mates, and I also learned more about the solidworks toolbox.
