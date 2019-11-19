@@ -68,6 +68,6 @@ I learned how to use equations and variables to create different sized gears wit
 ### Objective
 Make an enclosure for the previously designed gears.
 ### Pictures
-
+![Gearbox](media/gearbox.PNG)
 ### Lesson
 I learned how to use gear mates, and I also learned more about the solidworks toolbox.
