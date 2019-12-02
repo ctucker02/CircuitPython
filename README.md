@@ -66,8 +66,8 @@ Design 4 gears using equations and variables.
 I learned how to use equations and variables to create different sized gears without creating seperate files. I can now make different sizes and shapes in one file by using global variables and equations.
 ## Gearbox
 ### Objective
-Make an enclosure for the previously designed gears.
+The objective of this assignment is to make an enclosure for the previously designed gears.
 ### Pictures
-
+![Gearbox](media/gearbox.PNG) 
 ### Lesson
 I learned how to use gear mates, and I also learned more about the solidworks toolbox.
