@@ -71,3 +71,10 @@ The objective of this assignment is to make an enclosure for the previously desi
 ![Gearbox](media/gearbox.PNG) 
 ### Lesson
 I learned how to use gear mates, and I also learned more about the solidworks toolbox.
+## Motion Study
+### Objective
+The objective for this assignment is to make 6 parts and assemble them.
+### Pictures
+![Motion Study](media/motionstudy.PNG)
+### Lesson
+I learned how to use animation and motion in solidworks.
