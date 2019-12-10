@@ -78,3 +78,10 @@ The objective for this assignment is to make 6 parts and assemble them to make t
 ![Motion Study](media/motionstudy.PNG)
 ### Lesson
 I learned how to use animation and motion in solidworks.
+## Stress Analysis
+### Objective
+The objective for this assignment is to make an extruded figure and make it bend and animate. 
+### Pictures 
+![stress1](media/stress1.PNG)
+![stress2](media/stress2.PNG)
+### Lesson 
