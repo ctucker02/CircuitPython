@@ -82,6 +82,7 @@ I learned how to use animation and motion in solidworks.
 ### Objective
 The objective for this assignment is to make an extruded figure and make it bend and animate. 
 ### Pictures 
-![stress1](media/stress1.PNG)
+![stress1](media/stress.PNG)
 ![stress2](media/stress2.PNG)
 ### Lesson 
+I learned more about animation in solidworks.
