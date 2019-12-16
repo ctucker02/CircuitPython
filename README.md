@@ -86,3 +86,11 @@ The objective for this assignment is to make an extruded figure and make it bend
 ![stress2](media/stress2.PNG)
 ### Lesson 
 I learned more about animation in solidworks.
+# Processing
+## Hello Processing
+### Objective
+The objective of this assignment was to code a cirlce to bounce around on the screen using processing.
+### Pictures 
+![helloprocess](media/helloprocess.PNG)
+### Lesson
+I learned how to use processing, it is more similar to arduino.
